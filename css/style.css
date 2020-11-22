@@ -1,0 +1,28 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.header-container {
+  max-width: 1600px;
+  margin: 0 auto;
+  background: #4f59ce;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 15px;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.header-menu__link {
+  color: #fff;
+  text-decoration: none;
+}
+
+.logo {
+  color: #fff;
+  text-decoration: none;
+}
+/*# sourceMappingURL=style.css.map */
